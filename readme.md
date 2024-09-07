@@ -11,8 +11,9 @@ Bem-vindo ao repositório do **Flappy Bird**, um clone do popular jogo Flappy Bi
 
 ## Capturas de Tela
 
-![Tela de Jogo](https://prnt.sc/5UHfT-y90hoI)
-*Exemplo de uma jogada.*
+![Tela de Jogo](https://img001.prntscr.com/file/img001/XvfzRCLMQzCRcU6gXrnivg.png)
+
+![Tela de Jogo](https://img001.prntscr.com/file/img001/N6UCR_B3RialK5-HbgKSSw.png)
 
 ## Requisitos
 
@@ -23,4 +24,4 @@ Bem-vindo ao repositório do **Flappy Bird**, um clone do popular jogo Flappy Bi
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/flappy-bird-java-swing.git
+   git clone https://github.com/Alanzink1/flappy-bird-java-swing.git
